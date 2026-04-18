@@ -1,2 +1,0 @@
-# Periodiza-Pro
-Periodização app
